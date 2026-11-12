@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.sqlite3
+*.log
+backend/staticfiles/
+.test-artifacts/
+.DS_Store
